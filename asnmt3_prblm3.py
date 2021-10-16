@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[39]:
-
-
 def string_test(s):
     d={"UPPER_CASE":0, "LOWER_CASE":0}
     for c in s:
@@ -18,16 +12,6 @@ def string_test(s):
     print ("No. of Lower case Characters : ", d["LOWER_CASE"])
 
 string_test('The quick Brown Fox')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
