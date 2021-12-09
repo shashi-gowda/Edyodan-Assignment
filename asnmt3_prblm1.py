@@ -3,9 +3,8 @@ def summ(num):
     for i in num:
         sum+= i
     return sum
-print(summ((list)))
 list=[8, 2, 3, 0, 7]
-
+print(summ((list)))
 
 
 
